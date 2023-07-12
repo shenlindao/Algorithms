@@ -28,3 +28,15 @@
 
         > Бинарный поиск. Быстрая сортировка. Сортировка вставками.<br>
         [КОД](Seminar/Seminar_02/Main.java)<br>
+
+- ## Seminar_03
+
+    - ### LinkedList
+
+        > Структуры данных. Связный список. Методы и классы<br>
+        [КОД](Seminar/Seminar_03/LinkedList.java)<br>
+
+    - ### Main
+
+        > Структуры данных. Связный список. Запуск<br>
+        [КОД](Seminar/Seminar_03/Main.java)<br>
