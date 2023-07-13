@@ -178,7 +178,7 @@ public class BinaryTree<T extends Comparable<T>> {
             list.get(i).get(j).str = "/";
             while (j < j2) {
                 j++;
-                list.get(i).get(j).str = "_";
+                list.get(i).get(j).str = "-";
             }
         }
     }
